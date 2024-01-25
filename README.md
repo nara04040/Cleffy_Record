@@ -28,9 +28,6 @@ Cleffy는 사용자가 음악 파일이나 URL을 제공하면, 인공지능이 
 
 ## 프로젝트 담당 
 
-<br>
-<br>
-
 ### 1. **로그인**
 
 https://github.com/nara04040/Cleffy_Record/assets/83911617/96202690-cfac-4631-949b-610deb8b6e08
