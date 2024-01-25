@@ -70,8 +70,7 @@ https://github.com/nara04040/Cleffy_Record/assets/83911617/14ec090f-3253-48c6-97
 
 <img width="1274" alt="스크린샷 2024-01-25 오후 6 49 54" src="https://github.com/nara04040/Cleffy_Record/assets/83911617/39a06cc4-02c5-4392-8dc9-259efcdfea0a">
 
-- cookie 수집을 위해 사용자 동의가 필요.
-	- 첫 화면  
+- cookie 수집을 위해 사용자 동의가 필요성이 높아져 첫 화면 렌더링시 쿠키 수집을 동의하도록 구현했습니다.
 
 
 <br>
